@@ -1,5 +1,3 @@
-## We Together LLC
-
 <!DOCTYPE html>
 
 
